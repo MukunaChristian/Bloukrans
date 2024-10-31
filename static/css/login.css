@@ -1,0 +1,36 @@
+div.login {
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(18, 19, 23, 0.9);
+    color: #000000;
+    border: 2px solid #b9b9b9;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 10px;
+    box-shadow: 10px 9px 14px 5px #00000029;
+}
+
+div.login-box {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 5rem;
+    position: relative;
+    top: 10%;
+}
+
+div.password-reset-box {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 5rem;
+    position: relative;
+    top: 10%;
+}
+
+.form-floating {
+    color: grey;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 20px;
+}
